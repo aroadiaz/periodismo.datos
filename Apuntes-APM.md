@@ -38,8 +38,8 @@ Emulación de Linux en Windows. Consola de comandos. **Comandos**: listas de com
 - Cat: Concatenar archivos, es decir, unir en uno varios archivos. También lee lo que hay dentro de un archivo en caso de que sea texto plano, con un odt, pdf no funciona.
 - Nano: Editor de texto en cypwig.
 - Echo: Devuelve lo que has escrito.
-- >: Envía lo que se debería reflejar en la cosola a otro archivo. Si este archivo existiera, sustituiría el contenido anterior.
-- >>: Añade lo que se debería reflejar e la consola al archivo existente respetando el contenido que tenga el archivo.
+- 'mayor que': Envía lo que se debería reflejar en la cosola a otro archivo. Si este archivo existiera, sustituiría el contenido anterior.
+- 'dos mayor que': Añade lo que se debería reflejar e la consola al archivo existente respetando el contenido que tenga el archivo.
 - Touch: Crear archivo vacío. Puedes crear varios a la vez.
 - Rm: Borrar.
 - Rm -R: Borrar de forma recursiva.
