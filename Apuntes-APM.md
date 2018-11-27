@@ -75,10 +75,15 @@ Instalador de paquetes o programas. El atributo es 'install'
 *apt-cyg install*
 
 -- imagemagick : manipular imágenes.
+
 -- Emacs : para editor de texto. Se puede tener dentro de la consola.
+
 -- Python : para trabajar con Python (el que más se usa y más ha crecido)
+
 -- R : para trabajar con R (análisis estadístico)
+
 -- Perl : para trabajar con Perl (trabaja con texto y expresiones regulares) Muy valorado.
+
 Ejemplo: 'lo que está entre esta palabra y esta palabra envíalo a este archivo'; fue el proceso de trabajo para España en llamas con el BOE, cogió el nombre del sitio y la extensión para hacer un mapa.
 axios.com -- web especializada con visualización de datos.
 -- Ruby : para trabajar con Ruby (lenguaje de escritura fácil)
