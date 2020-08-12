@@ -46,6 +46,7 @@ Emulación de Linux en Windows. Consola de comandos. **Comandos**: listas de com
 - Rm -F: Forzar borrado.
 - lynx: Navegador en línea de comados.
 - Source: Código fuente de la página.
+- Curl -O: Descargar un archivo cuyo nombre está en la url de origen.
 - . : Afecta al directorio donde estás.
 - File: Dice qué tipo de archivo es (detector de virus, p.ej)
 - Mkdir: Crear una carpeta, hay que indicar el nombre del archivo y estar donde queremos alojarlo.
